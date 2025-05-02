@@ -12,6 +12,14 @@ DebMacify is a one-click setup script for Debian-based systems that:
 
 ## How to Use
 
+### One-line Install
+Run this in your terminal:
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/dronzer-tb/Debmacify/main/debmacify.sh)
+```
+
+Or follow the manual steps below:
+
 1. Extract `debmacify_package.zip`
 2. Open a terminal in the folder
 3. Make the script executable:
